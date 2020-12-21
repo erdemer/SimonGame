@@ -76,6 +76,8 @@ function startOver() {
   console.log("Start Over function works")
   level = 0
   gamePattern = []
+  userClickedPattern = []
+  tgl = true
 
 }
 
